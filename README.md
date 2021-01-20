@@ -1,3 +1,3 @@
 # special-chainsaw
 
-edycja programu
+# edycja programu
